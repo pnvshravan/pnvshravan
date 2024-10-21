@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Introduction:
 **Hi there 👋**.
 
-I am Proddatur Naga Venkata Shravan, a CSE Undergradate from VTU. I'm an Tech Enthusiast, who loves to develop things and explore new domains.
+I am **Proddatur Naga Venkata Shravan**, a CSE Undergrad from VTU. I'm an Tech Enthusiast, who loves to develop things and explore new domains.
 
 - 🌱 I’m currently learning **Data Structures**, **Cloud Computing/DevOps** - AWS, **Flutter**,.....
   
