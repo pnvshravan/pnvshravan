@@ -25,7 +25,8 @@ I am **Proddatur Naga Venkata Shravan**, a CSE Undergrad from VTU. I'm an Tech E
   
 - ⚡ **Fun fact:** I am a person with **good sense of humor**(I do believe that it is true 😄).
 
-###Connect with me:
+### Connect with me:
+
 ![LinkedIn](<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>)
 
 
