@@ -21,7 +21,7 @@ I am Proddatur Naga Venkata Shravan, a CSE Undergradate from VTU. I'm an Tech En
 
 - 🌱 I’m currently learning **Data Structures**, **Cloud Computing/DevOps** - AWS, **Flutter**,.....
   
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pnvshravan) and [Twitter/X"](https://x.com/pnvshravan</a>).
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pnvshravan) and [Twitter/X](https://x.com/pnvshravan</a>).
   
 - ⚡ **Fun fact:** I am a person with **good sense of humor**(I do believe that it is true 😄).
 
