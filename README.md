@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **pnvshravan/pnvshravan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###Introduction:
+Hi there 👋. 
+I am Proddatur Naga Venkata Shravan, a CSE Undergradate from VTU. I'm an Tech Enthusiast, who loves to develop things and loves to explore new domains.
+
+###Current mood:
+- 🌱 I’m currently learning **Data Structures**, **Cloud Computing/DevOps** - AWS, **Flutter**,.....
+- 📫 How to reach me: <a name="LinkedIN">https://www.linkedin.com/in/pnvshravan</a> and <a name="Twitter/X">https://x.com/pnvshravan</a>.
+- ⚡ Fun fact: I am a person with **good sense of humor**(I do believe that it is true 😄).
