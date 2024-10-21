@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 -->
 
 ### Introduction:
-Hi there 👋. 
+**Hi there 👋**.
+
 I am Proddatur Naga Venkata Shravan, a CSE Undergradate from VTU,Belgavi. I'm an Tech Enthusiast, who loves to develop things and loves to explore new domains.
 
 ### Current mood:
 - 🌱 I’m currently learning **Data Structures**, **Cloud Computing/DevOps** - AWS, **Flutter**,.....
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pnvshravan) and [Twitter/X"](https://x.com/pnvshravan</a>)
+  
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pnvshravan) and [Twitter/X"](https://x.com/pnvshravan</a>).
+  
 - ⚡ **Fun fact:** I am a person with **good sense of humor**(I do believe that it is true 😄).
 
 
