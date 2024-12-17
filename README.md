@@ -23,6 +23,6 @@ My name is **Proddatur Naga Venkata Shravan**, a CSE Undergrad from VTU. I'm an 
   
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pnvshravan) and [Twitter/X](https://x.com/pnvshravan</a>).
   
-- ⚡ **Fun fact:** I am a person with **good sense of humor**(😄).
+- ⚡ **Fun fact:** I am a person with horrible memory. For example, can't remeber new name of people.
 
 
