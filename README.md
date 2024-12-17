@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is **Proddatur Naga Venkata Shravan**, a CSE Undergrad from VTU. I'm an Tech Enthusiast, who loves to build things and explore new domains.
 
-- 🌱 I’m currently learning **Data Structures**, **Cloud Computing/DevOps** - AWS, **Flutter**,.....
+- 🌱 I’m currently learning **Data Structures**, **Cloud Computing/DevOps** - AWS, and many more.
   
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pnvshravan) and [Twitter/X](https://x.com/pnvshravan</a>).
   
